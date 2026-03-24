@@ -263,7 +263,7 @@ class SmartCityGuid extends Booking{
 	}
 	public static void main(String[] args){
 		Scanner sc = new Scanner(System.in);
-		System.out.println("			===Wlecome To SmartCityGuid===			");
+		System.out.println("			===Welcome To SmartCityGuid===			");
 		boolean b = false;
 		while(true){
 			System.out.println("\n1. To View Tourist Spot.");
